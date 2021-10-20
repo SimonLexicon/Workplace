@@ -8,7 +8,8 @@ namespace Workplace.Models
     {
         public string Name { get; set; }
         public string Phone { get; set; }
-        public string ContactAdress { get; set; }
+        public string ContactAdress { get; set; } 
+
 
         public Person(string name, string phone, string adress)
         {
