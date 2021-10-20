@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Workplace.Models
-{    
+namespace Workplace.Models.Work
+{
     // Employee = child,  Person = parent
     class Employee : Person
     {
