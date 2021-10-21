@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Workplace.Models.Work
 {
-    interface IInformation
+    public interface IInformation
     {
         const string INFOTEXT = "Information:";
         string Info();

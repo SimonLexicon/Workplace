@@ -12,7 +12,8 @@ namespace Workplace
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World\n");
-
+            
+            
             Book publication = new Book("Biografy",
                                         "Lexicon",
                                         100,
